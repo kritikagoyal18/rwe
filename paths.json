@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/rwe-site/language-masters/en:/",
+    "/content/rwe-site/language-masters/en/:/en/",
+    "/content/rwe-site/language-masters/fr/:/fr/",
+    "/content/rwe-site/language-masters/fr:/fr",
+    "/content/rwe-site/language-masters/es/:/es/",
+    "/content/rwe-site/language-masters/es:/es",
+    "/content/rwe-site/language-masters/ja/:/ja/",
+    "/content/rwe-site/language-masters/ja:/ja",
+    "/content/rwe-site/language-masters/de/:/de/",
+    "/content/rwe-site/language-masters/de:/de",
+    "/content/rwe-site/configuration:/.helix/config.json",
+    "/content/rwe-site/metadata:/metadata.json",
+    "/content/rwe-site/redirects:/redirects.json",
+    "/content/rwe-site/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/rwe-site/",
+    "/content/dam/rwe-site/"
   ]
 }
